@@ -1,0 +1,42 @@
+body{
+    background-color: #eee2dc;
+    margin-left:50px;
+    margin-top:25px;
+}
+p{
+    font-family: 'Montserrat', bold;
+    width: 600px;
+    font-size: 15px;
+    text-align: justify;
+}
+h1{
+    color:#123c69;
+    font-size:25px;
+}
+#prvidio .uvodna {
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(27, 26, 26);
+    border-bottom: 1px solid darkgray;
+    padding-bottom: 25px;
+}
+#prvidio .uvodna em {
+    color:#ac3b61;
+    font: bold 18px/1em "Georgia";
+}
+#drugidio ol.prva {
+    color: #154d8a;
+    font-family: 'Montserrat';
+    margin-left: 30px;
+    font-size: 14px;
+    font-size: 14px;
+    font-style: italic;
+    border-bottom: 1px solid darkgray;
+    padding-bottom: 25px;
+}
+#drugidio ol.druga {
+    color: #154d8a;
+    margin-left: 30px;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-style: italic;
+}
